@@ -25,6 +25,7 @@
 		8ED11CAA195D585000651193 /* 其他.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8ED11CA4195D585000651193 /* 其他.jpg */; };
 		8ED11CAB195D585000651193 /* 周边搜索.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8ED11CA5195D585000651193 /* 周边搜索.jpg */; };
 		8ED11CAC195D585000651193 /* 实时车况.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8ED11CA6195D585000651193 /* 实时车况.jpg */; };
+		8ED11CAE195D615700651193 /* QQ图片20140627154023.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8ED11CAD195D615700651193 /* QQ图片20140627154023.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		8ED11CA4195D585000651193 /* 其他.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "其他.jpg"; sourceTree = "<group>"; };
 		8ED11CA5195D585000651193 /* 周边搜索.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "周边搜索.jpg"; sourceTree = "<group>"; };
 		8ED11CA6195D585000651193 /* 实时车况.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "实时车况.jpg"; sourceTree = "<group>"; };
+		8ED11CAD195D615700651193 /* QQ图片20140627154023.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "QQ图片20140627154023.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -160,6 +162,7 @@
 		8ED11CA0195D585000651193 /* Prototype */ = {
 			isa = PBXGroup;
 			children = (
+				8ED11CAD195D615700651193 /* QQ图片20140627154023.jpg */,
 				8ED11CA1195D585000651193 /* 主页 -异常.jpg */,
 				8ED11CA2195D585000651193 /* 主页.jpg */,
 				8ED11CA3195D585000651193 /* 保险服务.jpg */,
@@ -247,6 +250,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8ED11C7C195D578B00651193 /* InfoPlist.strings in Resources */,
+				8ED11CAE195D615700651193 /* QQ图片20140627154023.jpg in Resources */,
 				8ED11CAA195D585000651193 /* 其他.jpg in Resources */,
 				8ED11CA8195D585000651193 /* 主页.jpg in Resources */,
 				8ED11CA9195D585000651193 /* 保险服务.jpg in Resources */,
